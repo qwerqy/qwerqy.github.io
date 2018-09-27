@@ -1,0 +1,384 @@
+<svg class="ldp-rain" width="124px"  height="120px"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" style="background: none;"><defs>
+  <pattern id="ldp-4db92dd84d4ea" x="0" y="0" width="124" height="120" patternUnits="userSpaceOnUse">
+    <line x1="-24.358" x2="-19.322" y1="-40.569" y2="-45.606" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-107.37" x2="-103.87" y1="-125.38" y2="-128.88" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-36.628" x2="-34.730" y1="-85.141" y2="-87.039" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-23.642" x2="-19.889" y1="-86.355" y2="-90.108" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="-13.802" x2="-8.377" y1="-79.623" y2="-85.048" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="-23.662" x2="-18.873" y1="-74.608" y2="-79.397" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-87.327" x2="-82.961" y1="-32.027" y2="-36.393" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="-46.587" x2="-44.993" y1="-75.107" y2="-76.702" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-127.64" x2="-122.82" y1="-109.44" y2="-114.26" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="-11.200" x2="-8.564" y1="-15.601" y2="-18.237" stroke="#ffffff" stroke-width="1" transform="translate(-103.532 100.193)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.6166666666666665s"></animateTransform>
+</line><line x1="-113.93" x2="-110.30" y1="-4.2010" y2="-7.836" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="-33.358" x2="-29.665" y1="-43.061" y2="-46.754" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-0.147" x2="2.725" y1="-6.714" y2="-9.586" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="-121.08" x2="-117.52" y1="-19.369" y2="-22.927" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-38.573" x2="-35.929" y1="-96.362" y2="-99.006" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-37.468" x2="-34.899" y1="-4.647" y2="-7.216" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="-19.54" x2="-18.517" y1="-4.251" y2="-5.274" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="-95.884" x2="-91.241" y1="-55.726" y2="-60.369" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="-127.81" x2="-123.75" y1="-100.32" y2="-104.39" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="-95.852" x2="-94.464" y1="-28.78" y2="-30.168" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-50.729" x2="-46.536" y1="-95.783" y2="-99.975" stroke="#ffffff" stroke-width="1" transform="translate(-31.2985 30.2889)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.0777777777777777s"></animateTransform>
+</line><line x1="99.642" x2="104.678" y1="-40.569" y2="-45.606" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="16.622" x2="20.124" y1="-125.38" y2="-128.88" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="87.372" x2="89.27" y1="-85.141" y2="-87.039" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="100.358" x2="104.111" y1="-86.355" y2="-90.108" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="110.198" x2="115.623" y1="-79.623" y2="-85.048" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="100.338" x2="105.127" y1="-74.608" y2="-79.397" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="36.673" x2="41.039" y1="-32.027" y2="-36.393" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="77.413" x2="79.007" y1="-75.107" y2="-76.702" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-3.6430" x2="1.18" y1="-109.44" y2="-114.26" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="112.8" x2="115.436" y1="-15.601" y2="-18.237" stroke="#ffffff" stroke-width="1" transform="translate(-103.532 100.193)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.6166666666666665s"></animateTransform>
+</line><line x1="10.064" x2="13.699" y1="-4.2010" y2="-7.836" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="90.642" x2="94.3350" y1="-43.061" y2="-46.754" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="123.853" x2="126.725" y1="-6.714" y2="-9.586" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="2.91700" x2="6.474" y1="-19.369" y2="-22.927" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="85.427" x2="88.071" y1="-96.362" y2="-99.006" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="86.532" x2="89.101" y1="-4.647" y2="-7.216" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="104.460" x2="105.483" y1="-4.251" y2="-5.274" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="28.116" x2="32.759" y1="-55.726" y2="-60.369" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="-3.813" x2="0.25" y1="-100.32" y2="-104.39" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="28.148" x2="29.536" y1="-28.78" y2="-30.168" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="73.271" x2="77.464" y1="-95.783" y2="-99.975" stroke="#ffffff" stroke-width="1" transform="translate(-31.2985 30.2889)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.0777777777777777s"></animateTransform>
+</line><line x1="223.642" x2="228.678" y1="-40.569" y2="-45.606" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="140.622" x2="144.124" y1="-125.38" y2="-128.88" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="211.372" x2="213.27" y1="-85.141" y2="-87.039" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="224.358" x2="228.111" y1="-86.355" y2="-90.108" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="234.198" x2="239.623" y1="-79.623" y2="-85.048" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="224.338" x2="229.127" y1="-74.608" y2="-79.397" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="160.673" x2="165.039" y1="-32.027" y2="-36.393" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="201.413" x2="203.007" y1="-75.107" y2="-76.702" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="120.357" x2="125.18" y1="-109.44" y2="-114.26" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="236.8" x2="239.436" y1="-15.601" y2="-18.237" stroke="#ffffff" stroke-width="1" transform="translate(-103.532 100.193)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.6166666666666665s"></animateTransform>
+</line><line x1="134.064" x2="137.699" y1="-4.2010" y2="-7.836" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="214.642" x2="218.335" y1="-43.061" y2="-46.754" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="247.853" x2="250.725" y1="-6.714" y2="-9.586" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="126.917" x2="130.474" y1="-19.369" y2="-22.927" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="209.427" x2="212.071" y1="-96.362" y2="-99.006" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="210.532" x2="213.101" y1="-4.647" y2="-7.216" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="228.46" x2="229.483" y1="-4.251" y2="-5.274" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="152.116" x2="156.759" y1="-55.726" y2="-60.369" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="120.187" x2="124.25" y1="-100.32" y2="-104.39" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="152.148" x2="153.536" y1="-28.78" y2="-30.168" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="197.271" x2="201.464" y1="-95.783" y2="-99.975" stroke="#ffffff" stroke-width="1" transform="translate(-31.2985 30.2889)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.0777777777777777s"></animateTransform>
+</line><line x1="-24.358" x2="-19.322" y1="79.431" y2="74.394" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-107.37" x2="-103.87" y1="-5.382" y2="-8.884" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-36.628" x2="-34.730" y1="34.859" y2="32.961" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-23.642" x2="-19.889" y1="33.645" y2="29.892" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="-13.802" x2="-8.377" y1="40.377" y2="34.952" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="-23.662" x2="-18.873" y1="45.392" y2="40.603" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-87.327" x2="-82.961" y1="87.973" y2="83.607" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="-46.587" x2="-44.993" y1="44.893" y2="43.298" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-127.64" x2="-122.82" y1="10.56" y2="5.736" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="-11.200" x2="-8.564" y1="104.399" y2="101.763" stroke="#ffffff" stroke-width="1" transform="translate(-103.532 100.193)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.6166666666666665s"></animateTransform>
+</line><line x1="-113.93" x2="-110.30" y1="115.799" y2="112.164" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="-33.358" x2="-29.665" y1="76.9390" y2="73.246" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-0.147" x2="2.725" y1="113.286" y2="110.414" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="-121.08" x2="-117.52" y1="100.631" y2="97.0730" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-38.573" x2="-35.929" y1="23.638" y2="20.994" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-37.468" x2="-34.899" y1="115.353" y2="112.784" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="-19.54" x2="-18.517" y1="115.749" y2="114.726" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="-95.884" x2="-91.241" y1="64.274" y2="59.631" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="-127.81" x2="-123.75" y1="19.671" y2="15.608" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="-95.852" x2="-94.464" y1="91.22" y2="89.8320" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-50.729" x2="-46.536" y1="24.217" y2="20.0250" stroke="#ffffff" stroke-width="1" transform="translate(-31.2985 30.2889)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.0777777777777777s"></animateTransform>
+</line><line x1="99.642" x2="104.678" y1="79.431" y2="74.394" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="16.622" x2="20.124" y1="-5.382" y2="-8.884" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="87.372" x2="89.27" y1="34.859" y2="32.961" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="100.358" x2="104.111" y1="33.645" y2="29.892" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="110.198" x2="115.623" y1="40.377" y2="34.952" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="100.338" x2="105.127" y1="45.392" y2="40.603" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="36.673" x2="41.039" y1="87.973" y2="83.607" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="77.413" x2="79.007" y1="44.893" y2="43.298" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-3.6430" x2="1.18" y1="10.56" y2="5.736" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="112.8" x2="115.436" y1="104.399" y2="101.763" stroke="#ffffff" stroke-width="1" transform="translate(-103.532 100.193)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.6166666666666665s"></animateTransform>
+</line><line x1="10.064" x2="13.699" y1="115.799" y2="112.164" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="90.642" x2="94.3350" y1="76.9390" y2="73.246" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="123.853" x2="126.725" y1="113.286" y2="110.414" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="2.91700" x2="6.474" y1="100.631" y2="97.0730" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="85.427" x2="88.071" y1="23.638" y2="20.994" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="86.532" x2="89.101" y1="115.353" y2="112.784" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="104.460" x2="105.483" y1="115.749" y2="114.726" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="28.116" x2="32.759" y1="64.274" y2="59.631" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="-3.813" x2="0.25" y1="19.671" y2="15.608" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="28.148" x2="29.536" y1="91.22" y2="89.8320" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="73.271" x2="77.464" y1="24.217" y2="20.0250" stroke="#ffffff" stroke-width="1" transform="translate(-31.2985 30.2889)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.0777777777777777s"></animateTransform>
+</line><line x1="223.642" x2="228.678" y1="79.431" y2="74.394" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="140.622" x2="144.124" y1="-5.382" y2="-8.884" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="211.372" x2="213.27" y1="34.859" y2="32.961" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="224.358" x2="228.111" y1="33.645" y2="29.892" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="234.198" x2="239.623" y1="40.377" y2="34.952" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="224.338" x2="229.127" y1="45.392" y2="40.603" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="160.673" x2="165.039" y1="87.973" y2="83.607" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="201.413" x2="203.007" y1="44.893" y2="43.298" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="120.357" x2="125.18" y1="10.56" y2="5.736" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="236.8" x2="239.436" y1="104.399" y2="101.763" stroke="#ffffff" stroke-width="1" transform="translate(-103.532 100.193)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.6166666666666665s"></animateTransform>
+</line><line x1="134.064" x2="137.699" y1="115.799" y2="112.164" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="214.642" x2="218.335" y1="76.9390" y2="73.246" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="247.853" x2="250.725" y1="113.286" y2="110.414" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="126.917" x2="130.474" y1="100.631" y2="97.0730" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="209.427" x2="212.071" y1="23.638" y2="20.994" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="210.532" x2="213.101" y1="115.353" y2="112.784" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="228.46" x2="229.483" y1="115.749" y2="114.726" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="152.116" x2="156.759" y1="64.274" y2="59.631" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="120.187" x2="124.25" y1="19.671" y2="15.608" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="152.148" x2="153.536" y1="91.22" y2="89.8320" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="197.271" x2="201.464" y1="24.217" y2="20.0250" stroke="#ffffff" stroke-width="1" transform="translate(-31.2985 30.2889)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.0777777777777777s"></animateTransform>
+</line><line x1="-24.358" x2="-19.322" y1="199.431" y2="194.394" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-107.37" x2="-103.87" y1="114.618" y2="111.116" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-36.628" x2="-34.730" y1="154.859" y2="152.961" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-23.642" x2="-19.889" y1="153.645" y2="149.892" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="-13.802" x2="-8.377" y1="160.377" y2="154.952" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="-23.662" x2="-18.873" y1="165.392" y2="160.603" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-87.327" x2="-82.961" y1="207.973" y2="203.607" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="-46.587" x2="-44.993" y1="164.893" y2="163.298" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-127.64" x2="-122.82" y1="130.56" y2="125.736" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="-11.200" x2="-8.564" y1="224.399" y2="221.763" stroke="#ffffff" stroke-width="1" transform="translate(-103.532 100.193)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.6166666666666665s"></animateTransform>
+</line><line x1="-113.93" x2="-110.30" y1="235.799" y2="232.164" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="-33.358" x2="-29.665" y1="196.939" y2="193.246" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-0.147" x2="2.725" y1="233.286" y2="230.414" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="-121.08" x2="-117.52" y1="220.631" y2="217.073" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-38.573" x2="-35.929" y1="143.638" y2="140.994" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-37.468" x2="-34.899" y1="235.353" y2="232.784" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="-19.54" x2="-18.517" y1="235.749" y2="234.726" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="-95.884" x2="-91.241" y1="184.274" y2="179.631" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="-127.81" x2="-123.75" y1="139.671" y2="135.608" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="-95.852" x2="-94.464" y1="211.22" y2="209.832" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="-50.729" x2="-46.536" y1="144.217" y2="140.025" stroke="#ffffff" stroke-width="1" transform="translate(-31.2985 30.2889)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.0777777777777777s"></animateTransform>
+</line><line x1="99.642" x2="104.678" y1="199.431" y2="194.394" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="16.622" x2="20.124" y1="114.618" y2="111.116" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="87.372" x2="89.27" y1="154.859" y2="152.961" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="100.358" x2="104.111" y1="153.645" y2="149.892" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="110.198" x2="115.623" y1="160.377" y2="154.952" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="100.338" x2="105.127" y1="165.392" y2="160.603" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="36.673" x2="41.039" y1="207.973" y2="203.607" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="77.413" x2="79.007" y1="164.893" y2="163.298" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="-3.6430" x2="1.18" y1="130.56" y2="125.736" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="112.8" x2="115.436" y1="224.399" y2="221.763" stroke="#ffffff" stroke-width="1" transform="translate(-103.532 100.193)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.6166666666666665s"></animateTransform>
+</line><line x1="10.064" x2="13.699" y1="235.799" y2="232.164" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="90.642" x2="94.3350" y1="196.939" y2="193.246" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="123.853" x2="126.725" y1="233.286" y2="230.414" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="2.91700" x2="6.474" y1="220.631" y2="217.073" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="85.427" x2="88.071" y1="143.638" y2="140.994" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="86.532" x2="89.101" y1="235.353" y2="232.784" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="104.460" x2="105.483" y1="235.749" y2="234.726" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="28.116" x2="32.759" y1="184.274" y2="179.631" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="-3.813" x2="0.25" y1="139.671" y2="135.608" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="28.148" x2="29.536" y1="211.22" y2="209.832" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="73.271" x2="77.464" y1="144.217" y2="140.025" stroke="#ffffff" stroke-width="1" transform="translate(-31.2985 30.2889)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.0777777777777777s"></animateTransform>
+</line><line x1="223.642" x2="228.678" y1="199.431" y2="194.394" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="140.622" x2="144.124" y1="114.618" y2="111.116" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="211.372" x2="213.27" y1="154.859" y2="152.961" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="224.358" x2="228.111" y1="153.645" y2="149.892" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="234.198" x2="239.623" y1="160.377" y2="154.952" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="224.338" x2="229.127" y1="165.392" y2="160.603" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="160.673" x2="165.039" y1="207.973" y2="203.607" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="201.413" x2="203.007" y1="164.893" y2="163.298" stroke="#ffffff" stroke-width="1" transform="translate(-51.7662 50.0963)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="3.233333333333333s"></animateTransform>
+</line><line x1="120.357" x2="125.18" y1="130.56" y2="125.736" stroke="#ffffff" stroke-width="1" transform="translate(-96.7098 93.5901)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.2125s"></animateTransform>
+</line><line x1="236.8" x2="239.436" y1="224.399" y2="221.763" stroke="#ffffff" stroke-width="1" transform="translate(-103.532 100.193)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.6166666666666665s"></animateTransform>
+</line><line x1="134.064" x2="137.699" y1="235.799" y2="232.164" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="214.642" x2="218.335" y1="196.939" y2="193.246" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="247.853" x2="250.725" y1="233.286" y2="230.414" stroke="#ffffff" stroke-width="1" transform="translate(-38.1211 36.8913)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.3857142857142857s"></animateTransform>
+</line><line x1="126.917" x2="130.474" y1="220.631" y2="217.073" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="209.427" x2="212.071" y1="143.638" y2="140.994" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="210.532" x2="213.101" y1="235.353" y2="232.784" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="228.46" x2="229.483" y1="235.749" y2="234.726" stroke="#ffffff" stroke-width="1" transform="translate(-117.177 113.398)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="4.85s"></animateTransform>
+</line><line x1="152.116" x2="156.759" y1="184.274" y2="179.631" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="120.187" x2="124.25" y1="139.671" y2="135.608" stroke="#ffffff" stroke-width="1" transform="translate(-44.9436 43.4938)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.94s"></animateTransform>
+</line><line x1="152.148" x2="153.536" y1="211.22" y2="209.832" stroke="#ffffff" stroke-width="1" transform="translate(-110.355 106.795)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="2.425s"></animateTransform>
+</line><line x1="197.271" x2="201.464" y1="144.217" y2="140.025" stroke="#ffffff" stroke-width="1" transform="translate(-31.2985 30.2889)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-124 120" keyTimes="0;1" repeatCount="indefinite" dur="1.0777777777777777s"></animateTransform>
+</line>
+  </pattern>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="url(#ldp-4db92dd84d4ea)"></rect></svg>
