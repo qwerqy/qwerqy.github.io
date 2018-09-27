@@ -1,11 +1,9 @@
-.overflow-wrapper {
-  overflow-x: hidden;
-  overflow-y: auto;
-  height: 100%;
-  min-height: 100vh;
+body {
   background-color: #fafafa!important;
 }
 
+
+/* COVER */
 #cover {
   height: 100vh;
   position: relative;
@@ -25,6 +23,17 @@
   font-family: 'Raleway', sans-serif;
 }
 
+#navArrow {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  font-size: 35px;
+  color: #0039cb;
+}
+
+
+/* WORK */
 #work {
   position: relative;
   display: block;
@@ -38,51 +47,8 @@
 
 .text-greyish {
   color: #9e9e9e!important;
-}
-
-#navBar {
-    z-index: 100;
-    background-color: #ffd600;
-}
-
-#navBar a:hover {
-  border-bottom: 2px solid;
-  border-bottom-color: #0039cb;
 
 }
-
-#navBarA {
-    z-index: 100;
-    background-color: #ffd600;
-}
-
-#navBarA a:hover {
-  border-bottom: 2px solid;
-  border-bottom-color: #0039cb;
-
-}
-
-#descriptionAbout {
-  padding-left: 150px;
-  padding-right: 150px;
-}
-
-#descriptionAbout h5 {
-  color: #484848;
-}
-
-#imageBox {
-  background-image: url('../img/portrait.jpg');
-  height: 300px;
-  width: 300px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-
-
-
 
 #portBox {
   position: relative;
@@ -140,6 +106,12 @@
   font-family: 'Raleway', sans-serif!important;
 }
 
+.banner-fade {
+  background: rgba(0,0,0,0.3);
+  height: 100%;
+  width: 100%;
+}
+
 #info {
   position: absolute;
   z-index: 1;
@@ -180,15 +152,51 @@
   color: #2962ff;
 }
 
-#navArrow {
-  position: absolute;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  font-size: 35px;
-  color: #0039cb;
+/* NAVBAR */
+#navBar {
+    z-index: 100;
+    background-color: #ffd600;
 }
 
+#navBar a:hover {
+  border-bottom: 2px solid;
+  border-bottom-color: #0039cb;
+
+}
+
+/* NAVBAR A */
+#navBarA {
+    z-index: 100;
+    background-color: #ffd600;
+}
+
+#navBarA a:hover {
+  border-bottom: 2px solid;
+  border-bottom-color: #0039cb;
+
+}
+
+/* ABOUT */
+#descriptionAbout {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+#descriptionAbout h5 {
+  color: #484848;
+}
+
+#imageBox {
+  background-image: url('../img/portrait.jpg');
+  height: 300px;
+  width: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* FOOTER */
 #footer {
   padding-top:100px;
   padding-bottom: 100px;
@@ -205,11 +213,7 @@
   color: #2962ff;
 }
 
-.banner-fade {
-  background: rgba(0,0,0,0.3);
-  height: 100%;
-  width: 100%;
-}
+
 
 .no-js #loader { display: none;  }
 .js #loader { display: block; position: absolute; left: 100px; top: 0; }
