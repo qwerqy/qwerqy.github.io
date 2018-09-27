@@ -1,6 +1,33 @@
-html, body {
+.overflow-wrapper {
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 100%;
+  min-height: 100vh;
   background-color: #fafafa!important;
-  font-family: 'Open Sans', sans-serif!important;
+}
+
+#cover {
+  height: 100vh;
+  position: relative;
+  background-image: url("../img/rain.svg");
+  background-repeat: repeat;
+  background-size: 300px;
+  background-color: #2962ff;
+  border-bottom: 5px solid;
+  border-bottom-color: #0039cb;
+}
+
+#cover h1 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Raleway', sans-serif;
+}
+
+#work {
+  position: relative;
+  display: block;
 }
 
 .github-link {
@@ -53,35 +80,12 @@ html, body {
   background-size: cover;
 }
 
-#cover {
-  position: relative;
-  background-image: url("../img/rain.svg");
-  background-repeat: repeat;
-  background-size: 300px;
-  background-color: #2962ff;
-  border-bottom: 5px solid;
-  border-bottom-color: #0039cb;
-}
 
-#cover h1 {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  font-family: 'Raleway', sans-serif;
-}
 
-#work {
-  position: relative;
-  overflow:visible;
-}
+
 
 #portBox {
   position: relative;
-  width: 100%;
-  height: 100%;
-  flex-direction: column;
-  justify-content: center;
 }
 
 #sellDome {
@@ -151,33 +155,29 @@ html, body {
   color: #484848;
 }
 
-#welcomeHeader {
-  position: absolute;
+.welcome-header-container {
+  display: inline-block;
+  position: relative;
+  left: 50%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  transform: translateX(-50%);
+}
+
+.welcome-header {
   text-align: center;
   font-size: 52px;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   font-family: 'Oxygen', sans-serif;
   color: #484848;
 }
 
-#welcomeSub {
-  position: absolute;
+.welcome-sub {
   text-align: center;
-  top: 70%;
-  left: 50%;
-  transform: translateX(-50%);
 }
 
-#welcomeHeader a {
+.welcome-header a {
   text-decoration: none;
   color: #2962ff;
-}
-
-#welcomeHeaderBox {
-  height: 30%;
-  position: relative;
 }
 
 #navArrow {
@@ -190,15 +190,17 @@ html, body {
 }
 
 #footer {
-  position: relative!important;
+  padding-top:100px;
+  padding-bottom: 100px;
+  width: 100%;
 }
 
 #resume {
-  font-family: 'Oxygen', sans-serif;
-  position: absolute;
-  top: 50%;
+  position: relative;
+  display: inline-block;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translateX(-50%);
+  font-family: 'Oxygen', sans-serif;
   text-decoration: none;
   color: #2962ff;
 }
@@ -227,7 +229,7 @@ html, body {
 		font-size: 120px;
 	}
 
-  #welcomeHeader {
+  .welcome-header {
     font-size: 55px;
     width: 1000px;
   }
@@ -238,7 +240,7 @@ html, body {
 		font-size: 70px;
 	}
 
-  #welcomeHeader {
+  .welcome-header {
     font-size: 50px;
     width: 1000px;
   }
@@ -264,7 +266,7 @@ html, body {
     width: 768px;
     text-align: center;
 	}
-  #welcomeHeader {
+  .welcome-header {
     font-size: 40px;
     margin-left: auto;
     margin-right: auto;
@@ -292,7 +294,7 @@ html, body {
     width: 425px;
     text-align: center;
 	}
-  #welcomeHeader {
+  .welcome-header {
     font-size: 30px;
     width: auto;
   }
@@ -325,7 +327,7 @@ html, body {
     width: 375px;
     text-align: center;
 	}
-  #welcomeHeader {
+  .welcome-header {
     font-size: 25px;
     width: 380px;
   }
@@ -354,7 +356,7 @@ html, body {
 		font-size: 30px;
     width: 300px;
 	}
-  #welcomeHeader {
+  .welcome-header {
     font-size: 20px;
     font-weight: 900;
     width: 300px;
