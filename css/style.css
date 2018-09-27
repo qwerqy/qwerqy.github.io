@@ -182,9 +182,9 @@ html, body {
 
 #navArrow {
   position: absolute;
-  left: 50%;
+  right: 0;
+  left: 0;
   bottom: 0;
-  transform: translateX(-50%);
   font-size: 35px;
   color: #0039cb;
 }
@@ -261,9 +261,14 @@ html, body {
 @media (max-width: 1024px) {
 	#cover h1 {
 		font-size: 65px;
+    width: 768px;
+    text-align: center;
 	}
   #welcomeHeader {
-    font-size: 45px;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
   }
   #sellDome {
     height: 450px;
@@ -283,13 +288,13 @@ html, body {
 
 @media (max-width: 768px) {
 	#cover h1 {
-		font-size: 60px;
-    width: 650px;
+		font-size: 55px;
+    width: 425px;
     text-align: center;
 	}
   #welcomeHeader {
-    font-size: 35px;
-    width: 650px;
+    font-size: 30px;
+    width: auto;
   }
   #sellDome {
     height: 400px;
@@ -317,7 +322,8 @@ html, body {
 @media (max-width: 425px) {
 	#cover h1 {
 		font-size: 45px;
-    width: 380px;
+    width: 375px;
+    text-align: center;
 	}
   #welcomeHeader {
     font-size: 25px;
@@ -343,7 +349,7 @@ html, body {
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 375px) {
 	#cover h1 {
 		font-size: 30px;
     width: 300px;
