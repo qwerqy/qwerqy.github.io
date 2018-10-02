@@ -7,12 +7,12 @@ body {
 #cover {
   height: 100vh;
   position: relative;
-  background-image: url("../img/rain.svg");
+  /* background-image: url("../img/rain.svg");
   background-repeat: repeat;
-  background-size: 300px;
-  background-color: #2962ff;
-  border-bottom: 5px solid;
-  border-bottom-color: #0039cb;
+  background-size: 300px; */
+  background-color: #212121;
+  /* border-bottom: 5px solid;
+  border-bottom-color: #0039cb; */
 }
 
 #cover h1 {
@@ -29,7 +29,7 @@ body {
   left: 0;
   bottom: 0;
   font-size: 35px;
-  color: #0039cb;
+  color: #fafafa;
 }
 
 
@@ -156,9 +156,16 @@ body {
 }
 
 /* NAVBAR */
+
+.navbar-brand {
+  font-family: 'Raleway', sans-serif;
+}
+
 #navBar {
     z-index: 100;
-    background-color: #ffd600;
+    background-color: #fff;
+    border-bottom: 2px solid;
+    border-color: #e0e0e0;
 }
 
 #navBar a:hover {
@@ -170,7 +177,9 @@ body {
 /* NAVBAR A */
 #navBarA {
     z-index: 100;
-    background-color: #ffd600;
+    background-color: #fff;
+    border-bottom: 2px solid;
+    border-color: #e0e0e0;
 }
 
 #navBarA a:hover {
@@ -180,12 +189,12 @@ body {
 }
 
 /* ABOUT */
-#descriptionAbout {
+.descriptionAbout {
   padding-left: 150px;
   padding-right: 150px;
 }
 
-#descriptionAbout h5 {
+.descriptionAbout h5 {
   color: #484848;
 }
 
@@ -227,7 +236,8 @@ body {
 	width: 100%;
 	height: 100%;
 	z-index: 9999;
-	background: url(../img/Preloader_3.gif) center no-repeat #fff;
+	background: url(../img/ellipsis.gif) center no-repeat #212121;
+  background-size: 80px;
 }
 
 

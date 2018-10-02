@@ -1,7 +1,15 @@
 $(window).on('load', function() {
 	$(".se-pre-con").fadeOut("slow");
 });
+
 $(document).ready(function(){
+	var title_options = {
+	  strings: ["Hi^1000, I'm Amin."],
+	  typeSpeed: 80
+	}
+	setTimeout(function(){
+		var title = new Typed("#cover h1", title_options);
+	}, 1000)
 
 	$('#navBar').hide();
 
@@ -26,7 +34,7 @@ $(document).ready(function(){
 		element: $('#work')[0],
 		exit: function(direction) {
 			$('#navBar').slideDown();
-			$("#navArrow").fadeOut();
+			$('#cover').hide();
 		},
 		// entered: function(direction) {
 		// 	$('#navBar').slideUp();
