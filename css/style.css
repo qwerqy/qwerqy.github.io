@@ -1,5 +1,6 @@
 body {
   background-color: #fafafa!important;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 
@@ -7,12 +8,7 @@ body {
 #cover {
   height: 100vh;
   position: relative;
-  /* background-image: url("../img/rain.svg");
-  background-repeat: repeat;
-  background-size: 300px; */
   background-color: #212121;
-  /* border-bottom: 5px solid;
-  border-bottom-color: #0039cb; */
 }
 
 #cover h1 {
@@ -20,7 +16,7 @@ body {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 #navArrow {
@@ -142,7 +138,8 @@ body {
 .welcome-header {
   text-align: center;
   font-size: 52px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold!important;
   color: #484848;
 }
 
@@ -158,7 +155,7 @@ body {
 /* NAVBAR */
 
 .navbar-brand {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 #navBar {
